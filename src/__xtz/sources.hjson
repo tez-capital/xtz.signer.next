@@ -1,7 +1,7 @@
 // SOURCE: https://gitlab.com/tezos/tezos/-/releases
 linux-x86_x64: {
-    client: https://gitlab.com/tezos/tezos/-/jobs/1904968502/artifacts/raw/tezos-binaries/tezos-client
-    signer: https://gitlab.com/tezos/tezos/-/jobs/1904968502/artifacts/raw/tezos-binaries/tezos-signer
+    client: https://gitlab.com/tezos/tezos/-/jobs/1904968498/artifacts/raw/tezos-binaries/tezos-client
+    signer: https://gitlab.com/tezos/tezos/-/jobs/1904968498/artifacts/raw/tezos-binaries/tezos-signer
 
 }
 linux-arm64: {
