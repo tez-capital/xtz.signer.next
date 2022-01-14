@@ -1,0 +1,7 @@
+{
+    "id": "xtz.signer.lthaca" ,
+    "version" : "0.0.1+11.0.0",
+    "dependencies": [
+        { "id":"xtz.signer" }
+    ]
+} 
