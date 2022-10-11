@@ -1,6 +1,6 @@
 {
     "id": "xtz.signer.kathmandu" ,
-    "version" : "0.0.10+14.0.jakarta_kathmandu",
+    "version" : "0.0.11+15.0.rc1.kathmandu",
     "dependencies": [
         { "id":"xtz.signer" }
     ]
