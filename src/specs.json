@@ -1,6 +1,6 @@
 {
-    "id": "xtz.signer.octez.18.0.rc1" ,
-    "version" : "0.0.24+18.0.rc1",
+    "id": "xtz.signer.octez.18.0" ,
+    "version" : "0.0.25+18.0",
     "dependencies": [
         { "id":"xtz.signer" }
     ]
