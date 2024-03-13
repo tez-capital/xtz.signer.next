@@ -1,5 +1,5 @@
 {
-    "id": "xtz.signer.octez.19.1" ,
+    "id": "xtz.signer.next" ,
     "version" : "0.1.0+19.1",
     "dependencies": [
         { "id":"xtz.signer" }
