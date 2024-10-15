@@ -1,11 +1,11 @@
 // SOURCE: https://gitlab.com/tezos/tezos/-/releases
 {
-    linux-arm64: {
-        client: https://gitlab.com/tezos/tezos/-/package_files/148375314/download
-        signer: https://gitlab.com/tezos/tezos/-/package_files/148375211/download
-    }
     linux-x86_64: {
-        client: https://gitlab.com/tezos/tezos/-/package_files/148372743/download
-        signer: https://gitlab.com/tezos/tezos/-/package_files/148372457/download
+        client: https://gitlab.com/tezos/tezos/-/package_files/151301361/download
+        signer: https://gitlab.com/tezos/tezos/-/package_files/151301201/download
+    }
+    linux-arm64: {
+        client: https://gitlab.com/tezos/tezos/-/package_files/151302562/download
+        signer: https://gitlab.com/tezos/tezos/-/package_files/151302393/download
     }
 }
