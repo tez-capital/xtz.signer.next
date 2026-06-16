@@ -137,7 +137,7 @@ end
 -- Update Sources
 --------------------------------------------------------------------------------
 
-local current_sources = hjson.parse(fs.read_file("src/__xtz/sources.hjson"))
+local current_sources = hjson.parse(fs.read_file("src/__xtz/sources.update.hjson"))
 local new_sources_map = {}
 
 local platforms = {
@@ -320,4 +320,4 @@ local new_content = "// SOURCE: https://octez.tezos.com/releases \n" ..
 	"// TezSign SOURCE: https://github.com/tez-capital/tezsign/releases \n"
 new_content = new_content .. hjson.stringify(new_sources_map, { separator = true, sort_keys = true })
 
-fs.write_file("src/__xtz/sources.hjson", new_content)
+fs.write_file("src/__xtz/sources.update.hjson", new_content)
